@@ -1,4 +1,4 @@
 <?php
 phpInfo();
-
+echo 'HELO';
 ?>
